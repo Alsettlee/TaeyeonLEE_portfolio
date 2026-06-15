@@ -9,7 +9,7 @@
 ---
 
 ## 연구분야
-![프로필](images/profile.png)
+<!--![프로필](images/profile.png) -->
 - Wireless Power Transfer
 - Power Electronics
 - Motor Drive
