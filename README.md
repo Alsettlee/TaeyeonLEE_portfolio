@@ -98,7 +98,7 @@
 - <b>대전 특구 무선충전 버스 개발 및 충전기 VDE 인증 시험 참여;</b> EMI CE/RE 극복을 위한 차동 및 동상모드 통합형 필터 개발, 2022-2023
 
 <p align="center">
-<img src="images/Project1.jpg" width="900">
+<img src="images/Project1.jpg" width="700">
 </p>
 
 ### 수행 프로젝트 (소속: 포항공과대학교)
@@ -111,7 +111,7 @@
 - <b>양방향 DC/DC 컨버터 개발/납품;</b> 구동모터 시험을 위한 배터리 시뮬레이터 장비 개발, EPT & ANG & 현대기아환경기술연구소 , 2020-2021
 
 <p align="center">
-<img src="images/Tool.jpg" width="500">
+<img src="images/Project2.jpg" width="1000">
 </p>
 
 ---
