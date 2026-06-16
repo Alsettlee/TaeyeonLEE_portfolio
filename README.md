@@ -10,11 +10,11 @@
 
 ### 이력 키워드
 
-<img src="https://img.shields.io/badge/Traction%20Motor-Control-002D72?style=flat-square"/>
-<img src="https://img.shields.io/badge/Power%20Electronics-HW,%20Inverter-002D72?style=flat-square"/>
-<img src="https://img.shields.io/badge/Fail%20Safe-SW,%20Algorithm-002D72?style=flat-square"/>
-<img src="https://img.shields.io/badge/Simulation-SILS-002D72?style=flat-square"/>
-<img src="https://img.shields.io/badge/EV%20Charger-Converter-002D72?style=flat-square"/>
+<img src="https://img.shields.io/badge/Traction%20Motor-Control-002D72?style=flat-square" width="170">
+<img src="https://img.shields.io/badge/Power%20Electronics-HW,%20Inverter-002D72?style=flat-square" width="230">
+<img src="https://img.shields.io/badge/Fail%20Safe-SW,%20Algorithm-002D72?style=flat-square"width="180">
+<img src="https://img.shields.io/badge/Simulation-SILS-002D72?style=flat-square" width="125">
+<img src="https://img.shields.io/badge/EV%20Charger-Converter-002D72?style=flat-square"width="172">
 
 </div>
 
@@ -186,6 +186,19 @@
 </ul>
 
 ---
+---
+## 특허
+
+<img src="https://img.shields.io/badge/-특허%20등록-A87C00?style=flat-square" width="70"> 1028195220000, <b>"모터각도 산출방법"</b>,
+공동발명자, 출원국가 대한민국, 등록일자 2025.06.09 등록 <br>
+
+<img src="https://img.shields.io/badge/특허%20등록-1028195220000-D4AF37?style=flat-square"> <b>"모터각도 산출방법"</b>,
+공동발명자, 출원국가 대한민국, 등록일자 2025.06.09 등록 <br>
+
+<img src="https://img.shields.io/badge/특허%20등록-1028195220000-D4AF37?style=flat-square"/> <b>"모터각도 산출방법"</b>,
+공동발명자, 출원국가 대한민국, 등록일자 2025.06.09 등록 <br>
+
+
 ## 사용가능 툴
 
 <p align="center">
