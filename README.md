@@ -1,14 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=232A6D&height=180&section=header&text=Portfolio&fontColor=ffffff&fontSize=45"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=002D72&height=180&section=header&text=Portfolio&fontColor=ffffff&fontSize=45"/>
 
-## Taeyeon Lee
+<h2>
+  이태연
+  <br>
+  <sub><i>Taeyeon Lee</i></sub>
+</h2>
+
 ### Curriculum Vitae (CV)
 
-<img src="https://img.shields.io/badge/Traction%20Motor%20Control-Research-1F2937?style=flat-square"/>
-<img src="https://img.shields.io/badge/Power%20Electronics-HW,%20SW-4B5563?style=flat-square"/>
-<img src="https://img.shields.io/badge/R&D-Engineer-374151?style=flat-square"/>
-<img src="https://img.shields.io/badge/EV-Wireless%20Charging-4B5563?style=flat-square"/>
+<img src="https://img.shields.io/badge/Traction%20Motor-Control-002D72?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power%20Electronics-HW,%20Inverter-002D72?style=flat-square"/>
+<img src="https://img.shields.io/badge/Fail%20Safe-SW,%20Engineering-002D72?style=flat-square"/>
+<img src="https://img.shields.io/badge/Simulation-SILS,%20HILS-002D72?style=flat-square"/>
 
 </div>
 
