@@ -152,27 +152,31 @@
 ## 연구논문(국내)
 
 <ul>
-<li><b> 이태연</b>, <i> 디커플링 구조를 갖는 3상3계층 무선충전 시스템,</i>, 전력전자학회, 2024. 🔗 https://dbpia.co.kr/journal/articleDetail?nodeId=NODE11865443 </li>
+<li><b> 이태연</b>, <i> 디커플링 구조를 갖는 3상3계층 무선충전 시스템,</i>, 전력전자학회 학술대회, 2024. <br> 🔗 https://dbpia.co.kr/journal/articleDetail?nodeId=NODE11865443 </li>
 </ul>
 
 <ul>
-<li><b> 이태연</b>, <i> 디커플링 구조를 갖는 3상3계층 무선충전 시스템,</i>, 전력전자학회, 2024. 🔗 DOI: https://doi.org/10.1109/ACCESS.2021.3127368 </li>
+<li><b> 이태연</b>, 황윤경, 이민혁, 남광희, <i> AC-DC 컨버터를 위한 비선형 관측기 기반의 계통 전압 센서리스 제어,</i>, 대한전기학회 학술대회, 2021. <br> 🔗https://dbpia.co.kr/journal/articleDetail?nodeId=NODE10755792  </li>
 </ul>
 
 <ul>
-<li><b> 이태연</b>, <i> 디커플링 구조를 갖는 3상3계층 무선충전 시스템,</i>, 전력전자학회, 2024. 🔗 DOI: https://doi.org/10.1109/ACCESS.2021.3127368 </li>
+<li><b> 이태연</b>, 남광희, <i> 각도 센서 융합을 통한 전동기 벡터 제어 페일오버 기법,</i>, 대한전기학회 CICS´ 20 정보 및 제어 학술대회, 2020.<br>
+  🔗https://dbpia.co.kr/journal/articleDetail?nodeId=NODE10492584 </li>
 </ul>
 
 <ul>
-<li><b> 이태연</b>, <i> 디커플링 구조를 갖는 3상3계층 무선충전 시스템,</i>, 전력전자학회, 2024. 🔗 DOI: https://doi.org/10.1109/ACCESS.2021.3127368 </li>
+<li><b> 이태연</b>, 남광희, <i> 전동기 제어를 위한 고성능 릴럭턴스 레졸버 설계,</i>, 전력전자학회 학술대회, 2019. <br>
+  🔗  </li>
 </ul>
 
 <ul>
-<li><b> 이태연</b>, <i> 디커플링 구조를 갖는 3상3계층 무선충전 시스템,</i>, 전력전자학회, 2024. 🔗 DOI: https://doi.org/10.1109/ACCESS.2021.3127368 </li>
+<li><b> 이태연</b>, <i> 디커플링 구조를 갖는 3상3계층 무선충전 시스템,</i>, 전력전자학회, 2024. <br>
+  🔗 </li>
 </ul>
 
 <ul>
-<li><b> 이태연</b>, <i> 디커플링 구조를 갖는 3상3계층 무선충전 시스템,</i>, 전력전자학회, 2024. 🔗 DOI: https://doi.org/10.1109/ACCESS.2021.3127368 </li>
+<li><b> 이태연</b>, <i> 디커플링 구조를 갖는 3상3계층 무선충전 시스템,</i>, 전력전자학회, 2024. <br>
+  🔗  </li>
 </ul>
 
 ## Languages and Tools
