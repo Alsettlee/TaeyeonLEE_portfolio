@@ -8,7 +8,7 @@
   <sub><i>Taeyeon Lee</i></sub>
 </h2>
 
-### 이력
+### 이력 키워드
 
 <img src="https://img.shields.io/badge/Traction%20Motor-Control-002D72?style=flat-square"/>
 <img src="https://img.shields.io/badge/Power%20Electronics-HW,%20Inverter-002D72?style=flat-square"/>
@@ -166,17 +166,23 @@
 
 <ul>
 <li><b> 이태연</b>, 남광희, <i> 전동기 제어를 위한 고성능 릴럭턴스 레졸버 설계,</i>, 전력전자학회 학술대회, 2019. <br>
-  🔗  </li>
+  🔗https://dbpia.co.kr/journal/articleDetail?nodeId=NODE09265268 </li>
 </ul>
 
 <ul>
-<li><b> 이태연</b>, <i> 디커플링 구조를 갖는 3상3계층 무선충전 시스템,</i>, 전력전자학회, 2024. <br>
-  🔗 </li>
+<li><b> 이태연</b>, 남광희, <i> 직접 전압 인가 방식을 이용한 인버터의 전압 왜곡 보상,</i>, 전력전자학회 학술대회, 2018. <br>
+  🔗https://dbpia.co.kr/journal/articleDetail?nodeId=NODE07578800 </li>
 </ul>
 
 <ul>
-<li><b> 이태연</b>, <i> 디커플링 구조를 갖는 3상3계층 무선충전 시스템,</i>, 전력전자학회, 2024. <br>
-  🔗  </li>
+<li><b> 이태연</b>, 남광희, <i> 2단 기어를 통한 전기자동차의 모터와 인버터의 효율 개선,</i>, 전력전자학회 학술대회, 2016. <br>
+  🔗https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07066250 </li>
+</ul>
+
+---
+## 저서
+<ul>
+<li><b> 이태연</b>. 2025. <i> 전기의 요정 (La Fée Électricité),</i>, 동아시아 출판사. 🔗ISBN : 9788962626681 </li>
 </ul>
 
 ## Languages and Tools
