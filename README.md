@@ -98,7 +98,7 @@
 - <b>대전 특구 무선충전 버스 개발 및 충전기 VDE 인증 시험 참여;</b> EMI CE/RE 극복을 위한 차동 및 동상모드 통합형 필터 개발, 2022-2023
 
 <p align="center">
-<img src="images/Tool.jpg" width="500">
+<img src="images/Project1.jpg" width="900">
 </p>
 
 ### 수행 프로젝트 (소속: 포항공과대학교)
@@ -209,23 +209,24 @@
 ## 사용가능 툴
 
 <p align="center">
-<img src="https://img.shields.io/badge/MATLAB-252A64?style=flat-square">
-<img src="https://img.shields.io/badge/Python-252A64?style=flat-square">
-<img src="https://img.shields.io/badge/Visual%20C++-252A64?style=flat-square">
 <img src="https://img.shields.io/badge/PSIM-252A64?style=flat-square">
 <img src="https://img.shields.io/badge/PLECS-252A64?style=flat-square">
 <img src="https://img.shields.io/badge/Simulink-252A64?style=flat-square">
 <img src="https://img.shields.io/badge/JMAG-252A64?style=flat-square">
 <img src="https://img.shields.io/badge/ANSYS%20Maxwell-252A64?style=flat-square">
+<img src="https://img.shields.io/badge/MATLAB-252A64?style=flat-square">
+<img src="https://img.shields.io/badge/Python-252A64?style=flat-square">
+<img src="https://img.shields.io/badge/Visual%20C++-252A64?style=flat-square">
+</p>
+
+<p align="center">
+<img src="images/Tool.jpg" width="500">
 </p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=matlab,python,vscode" />
 </p>
 
-<p align="center">
-<img src="images/Tool.jpg" width="500">
-</p>
 
 ---
 
