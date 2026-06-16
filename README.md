@@ -109,6 +109,8 @@
 ---
 
 ## 연구논문(해외)
+
+&#9632; <b>SCI</b>
 <ul>
 <li><b> T. Lee</b> and K. Nam, <i> Torque Control Based Speed Synchronization for Two-Speed Gear Electric Vehicle,</i>, in IEEE Access, vol. 9, pp. 153518-153527, 2021. 🔗 DOI: https://doi.org/10.1109/ACCESS.2021.3127368 </li>
 </ul>
@@ -118,11 +120,28 @@
 </ul>
 
 <ul>
-<li><b> T. Lee</b> and K. Nam <i> Torque Control Based Speed Synchronization for Two-Speed Gear Electric Vehicle,</i>, in IEEE Access, vol. 9, pp. 153518-153527, 2021. 🔗 DOI: https://doi.org/10.1109/ACCESS.2021.3127368 </li>
+<li>B. Jung, <b> T. Lee</b> and K. Nam, <i> Overmodulation Strategy for Voltage Source Inverter With a Single DC-Link Current Sensor,</i>, in IEEE Transactions on Industry Applications, vol. 58, no. 1, pp. 531-540, Jan.-Feb. 2022. 🔗 DOI: https://doi.org/10.1109/TIA.2021.3128585 </li>
 </ul>
 
 <ul>
-<li><b> T. Lee</b> and K. Nam <i> Torque Control Based Speed Synchronization for Two-Speed Gear Electric Vehicle,</i>, in IEEE Access, vol. 9, pp. 153518-153527, 2021. 🔗 DOI: https://doi.org/10.1109/ACCESS.2021.3127368 </li>
+<li>P. Jang, <b> T. Lee</b>, Y. Hwang and K. Nam, <i> Quadrature Demodulation Method for Resolver Signal Processing Under Different Sampling Rate,</i>,  in IEEE Access, vol. 10, pp. 7016-7024, 2022. 🔗 DOI: https://doi.org/10.1109/ACCESS.2021.3136770 </li>
+</ul>
+
+&#9632; <b>비 SCI</b>
+<ul>
+<li><b> T. Lee</b>, <i> A Novel Three-Phase Three-Layer Topology for Wireless Power Transfer Systems,</i>, in IEEE Access, vol. 9, pp. 153518-153527, 2021. 🔗 DOI: https://doi.org/10.1109/ECCEEurope62508.2024.10751830 </li>
+</ul>
+
+<ul>
+<li><b> T. Lee</b> and D. -H. Cho, <i> Filter-Integrated LCC Compensation for Wireless Charging System,</i>, 2023 IEEE Applied Power Electronics Conference and Exposition (APEC), Orlando, FL, USA, 2023. 🔗 DOI: https://doi.org/10.1109/APEC43580.2023.10131634 </li>
+</ul>
+
+<ul>
+<li><b> T. Lee</b>, H. Lee, B. Koo and K. Nam, <i> Position Fault Detection and Failover Method for UAM PMSM Control</i>, 2021 IEEE Energy Conversion Congress and Exposition (ECCE), Vancouver, BC, Canada, 2021. 🔗 DOI: https://doi.org/10.1109/ECCE47101.2021.9594929 </li>
+</ul>
+
+<ul>
+<li>P. Jang, <b> T. Lee</b>, Y. Hwang and K. Nam, <i> Quadrature Demodulation Method for Resolver Signal Processing Under Different Sampling Rate,</i>,  in IEEE Access, vol. 10, pp. 7016-7024, 2022. 🔗 DOI: https://doi.org/10.1109/ACCESS.2021.3136770 </li>
 </ul>
 
 
