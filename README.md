@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=180&section=header&text=Portfolio&fontColor=ffffff&fontSize=45"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=232A6D&height=180&section=header&text=Portfolio&fontColor=ffffff&fontSize=45"/>
 
 ## Taeyeon Lee
 ### Curriculum Vitae (CV)
@@ -49,39 +49,135 @@
 | Power Electronics Simulation | Converter and inverter operation analysis | MATLAB, Simulation |
 | Technical Documentation | Technical document and standard review | IEC, Standards, Reports |
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=graywhite" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=graywhite" height="160"/>
-
-</div>
+<h2>이력 요약</h2>
 
 ---
-## Contact
-- E-mail : your-email@google.ac.kr
-- Tel : 010-xxxx-xxxx
 
-## Portfolio Map
+<table>
+<tr>
+<td width="90">
 
-```mermaid
-mindmap
-  root((Taeyeon Lee))
-    Research
-      Power Electronics
-      Wireless Charging
-      Electric Vehicles
-    Skills
-      MATLAB
-      Python
-      Technical Writing
-    Experience
-      R&D Projects
-      Technical Documents
-      International Standards
-    Goal
-      Practical Technology
-      Research Impact
+<img src="https://github.com/본인깃허브아이디.png" width="80">
+
+</td>
+
+<td>
+
+<h3>이태연 | Taeyeon Lee</h3>
+
+▪ 생년월일 : 1993.04.16 (만 32세)
+▪ E-mail : [xodus2848@naver.com](mailto:xodus2848@naver.com)
+
+▪ 현 소속 : ㈜와이파워원 KAIST Spin-off
+▪ 전공 : 모터제어 및 전력전자 (전자전기공학 박사)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 학력
+
+<table>
+<tr>
+<td>
+
+**Ph.D., 포항공과대학교 박사**
+Pohang University of Science and Technology (POSTECH)
+
+    최종학위논문명
+*Torque control based speed synchronization for two-speed gear system*
+
+</td>
+
+<td align="right">
+
+**2018 - 2022**
+
+(2022)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+**M.S., 포항공과대학교 석사**
+Pohang University of Science and Technology (POSTECH)
+
+</td>
+
+<td align="right">
+
+**2016 - 2018**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+**B.S., 충북대학교 학사**
+Chungbuk National University
+
+</td>
+
+<td align="right">
+
+**2012 - 2016**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 경력
+
+<table>
+<tr>
+<td>
+
+**㈜와이파워원 기업부설연구소**
+연구소장 (PM)
+
+</td>
+
+<td align="right">
+
+**2026 ~**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+**㈜와이파워원 선행연구팀**
+책임연구원 (팀장)
+
+</td>
+
+<td align="right">
+
+**2024 - 2026**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+**㈜와이파워원 전력전자 및 임베디드 개발팀**
+선임연구원
+
+</td>
+
+<td align="right">
+
+**2022 - 2024**
+
+</td>
+</tr>
+</table>
