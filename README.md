@@ -141,11 +141,39 @@
 </ul>
 
 <ul>
-<li>P. Jang, <b> T. Lee</b>, Y. Hwang and K. Nam, <i> Quadrature Demodulation Method for Resolver Signal Processing Under Different Sampling Rate,</i>,  in IEEE Access, vol. 10, pp. 7016-7024, 2022. 🔗 DOI: https://doi.org/10.1109/ACCESS.2021.3136770 </li>
+<li><b> T. Lee</b>, K. Nam, J. Kang and Y. Ahn, <i> Synchronized Gear Shift Control Using RLS Estimator for Two Speed Gear System,</i>, 2020 IEEE Transportation Electrification Conference & Expo (ITEC), Chicago, IL, USA, 2020. 🔗 DOI: https://doi.org/10.1109/ITEC48692.2020.9161748 </li>
 </ul>
 
+<ul>
+<li><b> T. Lee</b>, Y. Kim and K. Nam, <i> Loss minimizing gear shifting algorithm based on optimal current sets for IPMSM,</i>, 2017 IEEE Transportation Electrification Conference and Expo (ITEC), Chicago, IL, USA, 2017. 🔗 DOI: https://doi.org/10.1109/ITEC.2017.7993260 </li>
+</ul>
 
 ---
+## 연구논문(국내)
+
+<ul>
+<li><b> 이태연</b>, <i> 디커플링 구조를 갖는 3상3계층 무선충전 시스템,</i>, 전력전자학회, 2024. 🔗 https://dbpia.co.kr/journal/articleDetail?nodeId=NODE11865443 </li>
+</ul>
+
+<ul>
+<li><b> 이태연</b>, <i> 디커플링 구조를 갖는 3상3계층 무선충전 시스템,</i>, 전력전자학회, 2024. 🔗 DOI: https://doi.org/10.1109/ACCESS.2021.3127368 </li>
+</ul>
+
+<ul>
+<li><b> 이태연</b>, <i> 디커플링 구조를 갖는 3상3계층 무선충전 시스템,</i>, 전력전자학회, 2024. 🔗 DOI: https://doi.org/10.1109/ACCESS.2021.3127368 </li>
+</ul>
+
+<ul>
+<li><b> 이태연</b>, <i> 디커플링 구조를 갖는 3상3계층 무선충전 시스템,</i>, 전력전자학회, 2024. 🔗 DOI: https://doi.org/10.1109/ACCESS.2021.3127368 </li>
+</ul>
+
+<ul>
+<li><b> 이태연</b>, <i> 디커플링 구조를 갖는 3상3계층 무선충전 시스템,</i>, 전력전자학회, 2024. 🔗 DOI: https://doi.org/10.1109/ACCESS.2021.3127368 </li>
+</ul>
+
+<ul>
+<li><b> 이태연</b>, <i> 디커플링 구조를 갖는 3상3계층 무선충전 시스템,</i>, 전력전자학회, 2024. 🔗 DOI: https://doi.org/10.1109/ACCESS.2021.3127368 </li>
+</ul>
 
 ## Languages and Tools
 
