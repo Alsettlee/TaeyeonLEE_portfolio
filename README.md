@@ -182,11 +182,11 @@
 ---
 ## 저서
 <ul>
-<li><b> 이태연</b>. 2025. <i> 전기의 요정 (La Fée Électricité),</i>, 동아시아 출판사. 🔗ISBN : 9788962626681 </li>
+<li><b> 이태연</b>. 2025. <i> 전기의 요정 (La Fée Électricité),</i>, 동아시아 출판사. 📖ISBN : 9788962626681 </li>
 </ul>
 
 ---
-## Languages and Tools
+## 사용가능 툴
 
 <p align="center">
 <img src="https://img.shields.io/badge/MATLAB-252A64?style=flat-square">
@@ -204,7 +204,7 @@
 </p>
 
 <p align="center">
-<img src="images/증명사진.jpg" width="120">
+<img src="images/Tool.jpg" width="500">
 </p>
 
 ---
