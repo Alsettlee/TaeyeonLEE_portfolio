@@ -1,45 +1,87 @@
-# 이태연 포트폴리오
-지원자 포트폴리오
+<div align="center">
 
-## 소개
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=180&section=header&text=Portfolio&fontColor=ffffff&fontSize=45"/>
 
-전력전자 및 무선전력전송 연구개발 엔지니어
+## Taeyeon Lee
+### Curriculum Vitae (CV)
+
+<img src="https://img.shields.io/badge/Traction%20Motor%20Control-Research-1F2937?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power%20Electronics-HW,%20SW-4B5563?style=flat-square"/>
+<img src="https://img.shields.io/badge/R&D-Engineer-374151?style=flat-square"/>
+<img src="https://img.shields.io/badge/EV-Wireless%20Charging-4B5563?style=flat-square"/>
+
+</div>
 
 ---
 
-## 연구분야
-<!--![프로필](images/profile.png) -->
-- Wireless Power Transfer
+## About Me
+
+- I am interested in **Power Electronics, Electric Vehicles, and Wireless Charging**.
+- I aim to connect engineering technology with real-world problems.
+- I have experience in **technical documents, international standards, and R&D projects**.
+- I value responsibility, fast learning, and practical problem solving.
+
+---
+
+## Research Interests
+
 - Power Electronics
-- Motor Drive
-- EV Charging
+- Electric Vehicle Systems
+- Wireless Power Transfer
+- Motor Drive Systems
 - International Standardization
 
 ---
 
-## 주요 프로젝트
+## Languages and Tools
 
-### EV 무선충전 시스템 개발
-
-- 역할 : 제어기 설계
-- 사용기술 : MATLAB, Simulink
-
-### IEC 국제표준화 활동
-
-- TC 참여
-- 기술 검토 및 표준 제안
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,matlab,github,vscode,git" />
+</p>
 
 ---
 
-## 논문
+## Featured Projects
 
-1. IEEE Transactions ...
-2. Applied Energy ...
+| Project | Description | Keywords |
+|---|---|---|
+| EV Wireless Charging | Wireless charging system analysis for electric vehicles | WPT, EV, Power Transfer |
+| Power Electronics Simulation | Converter and inverter operation analysis | MATLAB, Simulation |
+| Technical Documentation | Technical document and standard review | IEC, Standards, Reports |
 
 ---
 
-## 특허
+## GitHub Stats
 
-1. 무선충전 제어방법
-2. 전력변환장치
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=graywhite" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=graywhite" height="160"/>
+
+</div>
+
+---
+## Contact
+- E-mail : your-email@google.ac.kr
+- Tel : 010-xxxx-xxxx
+
+## Portfolio Map
+
+```mermaid
+mindmap
+  root((Taeyeon Lee))
+    Research
+      Power Electronics
+      Wireless Charging
+      Electric Vehicles
+    Skills
+      MATLAB
+      Python
+      Technical Writing
+    Experience
+      R&D Projects
+      Technical Documents
+      International Standards
+    Goal
+      Practical Technology
+      Research Impact
