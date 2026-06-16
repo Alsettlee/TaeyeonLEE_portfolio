@@ -19,26 +19,42 @@
 </div>
 
 ## 요약
-
 <table>
 <tr>
-<td width="120">
+<td rowspan="2" width="120" align="center">
+<img src="images/증명사진.jpg" width="120">
+</td>
 
-<img src="https://github.com/본인깃허브아이디.png" width="100">
+<td>
+▪ 생년월일 : 1993.04.16 (만 32세)
+</td>
+
+<td>
+▪ 최종학위 : 전자전기공학 박사 (POSTECH)
+</td>
+
+<td>
+▪ 주전공 : 모터제어 및 전력전자
+</td>
+
+</tr>
+<tr>
+
+<td>
+
+▪ E-mail : [xodus2848@naver.com](mailto:xodus2848@naver.com)
 
 </td>
 
 <td>
-
-▪ 생년월일 : 1993.04.16 (만 32세)<br>
-▪ E-mail : [xodus2848@naver.com](mailto:xodus2848@naver.com)<br>
-▪ 전공 : 모터제어 및 전력전자 (전자전기공학 박사)<br>
-▪ 현 소속 : ㈜와이파워원 (KAIST Spin-off)
-
+▪ 이전 소속 : ㈜와이파워원 (KAIST Spin-off)
 </td>
+<td>
+▪ 병역 : 복무완료(특례)
+</td>
+
 </tr>
 </table>
-
 
 ---
 ## 학력
