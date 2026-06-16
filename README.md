@@ -186,19 +186,18 @@
 </ul>
 
 ---
----
 ## 특허
 
-<img src="https://img.shields.io/badge/-특허%20등록-A87C00?style=flat-square" width="70"> 1028195220000, <b>"모터각도 산출방법"</b>,
+<img src="https://img.shields.io/badge/특허%20등록-1028195220000-D4AF37?style=flat-square"> <b>1028195220000, "모터각도 산출방법"</b>,
 공동발명자, 출원국가 대한민국, 등록일자 2025.06.09 등록 <br>
 
-<img src="https://img.shields.io/badge/특허%20등록-1028195220000-D4AF37?style=flat-square"> <b>"모터각도 산출방법"</b>,
-공동발명자, 출원국가 대한민국, 등록일자 2025.06.09 등록 <br>
+<img src="https://img.shields.io/badge/특허%20등록-1027987010000-D4AF37?style=flat-square"> <b>1027987010000, "EMI 필터가 통합된 무선충전 보상회로"</b>,
+주발명자, 출원국가 대한민국, 등록일자 2025.04.16 등록 <br>
 
-<img src="https://img.shields.io/badge/특허%20등록-1028195220000-D4AF37?style=flat-square"/> <b>"모터각도 산출방법"</b>,
-공동발명자, 출원국가 대한민국, 등록일자 2025.06.09 등록 <br>
+<img src="https://img.shields.io/badge/특허%20등록-1020250052272-D4AF37?style=flat-square"> <b>1020250052272, "DC-DC 컨버터를 이용하여 넓은 동작 범위를 지원하는 무선충전 송신장치 및 그 제어 방법 "</b>,
+주발명자, 출원국가 대한민국, 등록일자 2025.10.29 등록 <br>
 
-
+---
 ## 사용가능 툴
 
 <p align="center">
@@ -220,7 +219,6 @@
 <img src="images/Tool.jpg" width="500">
 </p>
 
----
 ---
 
 
