@@ -185,48 +185,29 @@
 <li><b> 이태연</b>. 2025. <i> 전기의 요정 (La Fée Électricité),</i>, 동아시아 출판사. 🔗ISBN : 9788962626681 </li>
 </ul>
 
+---
 ## Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,matlab,github,vscode,git" />
+<img src="https://img.shields.io/badge/MATLAB-252A64?style=flat-square">
+<img src="https://img.shields.io/badge/Python-252A64?style=flat-square">
+<img src="https://img.shields.io/badge/Visual%20C++-252A64?style=flat-square">
+<img src="https://img.shields.io/badge/PSIM-252A64?style=flat-square">
+<img src="https://img.shields.io/badge/PLECS-252A64?style=flat-square">
+<img src="https://img.shields.io/badge/Simulink-252A64?style=flat-square">
+<img src="https://img.shields.io/badge/JMAG-252A64?style=flat-square">
+<img src="https://img.shields.io/badge/ANSYS%20Maxwell-252A64?style=flat-square">
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=matlab,python,vscode" />
+</p>
+
+<p align="center">
+<img src="images/증명사진.jpg" width="120">
 </p>
 
 ---
-
-## Featured Projects
-
-| Project | Description | Keywords |
-|---|---|---|
-| EV Wireless Charging | Wireless charging system analysis for electric vehicles | WPT, EV, Power Transfer |
-| Power Electronics Simulation | Converter and inverter operation analysis | MATLAB, Simulation |
-| Technical Documentation | Technical document and standard review | IEC, Standards, Reports |
-
-<h2>이력 요약</h2>
-
----
-
-<table>
-<tr>
-<td width="90">
-
-<img src="https://github.com/본인깃허브아이디.png" width="80">
-
-</td>
-
-<td>
-
-<h3>이태연 | Taeyeon Lee</h3>
-
-▪ 생년월일 : 1993.04.16 (만 32세)
-▪ E-mail : [xodus2848@naver.com](mailto:xodus2848@naver.com)
-
-▪ 현 소속 : ㈜와이파워원 KAIST Spin-off
-▪ 전공 : 모터제어 및 전력전자 (전자전기공학 박사)
-
-</td>
-</tr>
-</table>
-
 ---
 
 
